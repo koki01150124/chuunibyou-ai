@@ -12,11 +12,11 @@
    ```bash
    cd chuunibyou-ai
    ```
-3. 仮想環境を作成（任意）
+3. 仮想環境を作成
    ```bash
    python -m venv .venv
    ```
-4. 仮想環境を有効化（任意）
+4. 仮想環境を有効化
    ```bash
    .\.venv\Scripts\activate
    ```
